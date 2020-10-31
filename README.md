@@ -1,2 +1,2 @@
 # certificates
-GitHub Pages
+index.html
